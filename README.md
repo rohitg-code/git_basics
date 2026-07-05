@@ -1,4 +1,5 @@
-```Install Git
+```text
+Install Git
     ↓
 Configure user.name/user.email
     ↓
