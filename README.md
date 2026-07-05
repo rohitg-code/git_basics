@@ -1,4 +1,4 @@
-Install Git
+```Install Git
     ↓
 Configure user.name/user.email
     ↓
@@ -19,7 +19,7 @@ Create GitHub PAT
 git push -u origin main
     ↓
 Future: git pull → git add → git commit → git push
-
+```
 
 # Git to GitHub (HTTPS) Setup Guide
 
